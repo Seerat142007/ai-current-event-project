@@ -9,7 +9,7 @@
 | Name | Student Number | Role |
 |------|----------------|------|
 | Seerat Kaur | 123565251 | Project setup, Slides, Intro Of video |
-| [Add name] | [add student number] | what you did in this project |
+| Kyaw Khine Khant | 103397261 | Presentation Research |
 | [Add name] | [add student number] | what you did in this project |
 | [Add name] | [add student number] | what you did in this project |
 
