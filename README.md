@@ -81,4 +81,4 @@ Our group's reflection on the AI grading experience and how AI supported our res
 
 ## GitHub Collaboration
 
-All task tracking, communication, and peer responses for this project were managed using GitHub Issues, branches, pull requests, and the Discussion board, in line with project requirements.
+All task tracking, communication, and peer responses for this project were managed using GitHub Issues, and the Discussion board, in line with project requirements.
