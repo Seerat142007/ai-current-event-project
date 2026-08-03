@@ -1,1 +1,26 @@
+AI Evaluation — Claude (Sonnet 5)
 
+1. Content & Presentation: 10/25
+Your topic (GPT-5) is clearly recent, well-explained, and the README's Key Findings section is genuinely strong — clear language, good structure (What is GPT-5, New Features, Real-World Applications, Challenges). However, the YouTube video hasn't been made yet, and this category is mostly about the video itself (time limit, organization, discussion question delivery, team participation). Without a video, I can't verify most of this category, so it's scored low by necessity, not because your written content is weak.
+
+2. GitHub Collaboration: 15/25
+Positives: Issues (9), Discussions being used for team decisions, README structure is solid, multiple contributors visible in commit history. Gaps: only 2 of your 3–4 team members are filled into the README table — the other rows still say "[Add name]." I can't see actual commit-by-member breakdown or PR/branch activity from the page view, so I can't confirm all members are contributing equally.
+
+3. AI Evaluation Setup: 8/25
+The /ai-evaluation/ folder exists and is linked in the README, but the actual files (ai-model-1.md, ai-model-2.md) either don't have content yet or aren't visible — the README links to them as placeholders ("[Add AI model name]"). This category needs two real completed evaluations saved, which isn't done yet.
+
+4. Reflection Quality: 5/25
+reflection.md is referenced in the README but currently is a template with placeholder answers, not a completed reflection with real AI scores and your team's real opinions.
+
+Total: 38/100
+
+evaluation done by chat-gpt
+
+| Category                      | Score (/25) | Comments                                                                                                                                                                                                                                                   |
+| ----------------------------- | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Content & Presentation** |  **25/25**  | The prompt is clear, well organized, easy to understand, and explains exactly what the AI should do. It specifies the required output and includes all grading criteria.                                                                                   |
+| **2. GitHub Collaboration**   |  **25/25**  | The prompt asks the AI to evaluate all important GitHub collaboration elements, including commits, branches, pull requests, Issues, Discussions, and the README contents.                                                                                  |
+| **3. AI Evaluation Setup**    |  **24/25**  | The prompt instructs the AI to evaluate prompts, responses, and the use of two AI models. However, it could be improved by telling the AI not to make assumptions if information is missing and to justify each score with evidence.                       |
+| **4. Reflection Quality**     |  **24/25**  | The prompt covers all required reflection criteria, including comparing AI results, discussing agreement with the grades, and reflecting on AI's usefulness. It could be stronger by asking the AI to provide evidence from the reflection for each score. |
+
+Total Score: 98/100
