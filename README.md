@@ -10,7 +10,7 @@
 |------|----------------|------|
 | Seerat Kaur | 123565251 | Project setup, Slides, Intro Of video |
 | Kyaw Khine Khant | 103397261 | Presentation Research |
-| [Add name] | [add student number] | what you did in this project |
+| Japneet Kaur | 101564268 | ai evaluation test , editing |
 | [Add name] | [add student number] | what you did in this project |
 
 ---
