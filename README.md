@@ -11,7 +11,7 @@
 | Seerat Kaur | 123565251 | Project setup, Slides, Intro Of video |
 | Kyaw Khine Khant | 103397261 | Presentation Research |
 | Japneet Kaur | 101564268 | ai evaluation test , editing |
-| [Add name] | [add student number] | what you did in this project |
+| Idowu Adesoye | 108604265 | Presentation outline, Slide 3 presenter, Reflection |
 
 ---
 
