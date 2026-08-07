@@ -50,7 +50,7 @@ This project explores **GPT-5**, an advanced AI model developed by OpenAI as the
 
 ## YouTube Video
 
-📺 **Watch our presentation here:** [Add public YouTube link here]
+📺 **Watch our presentation here:** https://youtu.be/KDBz-E5QMfE
 
 > ⚠️ Video must be set to **PUBLIC** to be graded.
 
